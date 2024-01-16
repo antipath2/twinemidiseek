@@ -4,7 +4,7 @@ granular synth for Monome Norns with midi control
 
 control the seek position via midi keyboard
 
-original by: @cfdrake
+original by: @cfdrake /@cfd90
 
 
 controls:
